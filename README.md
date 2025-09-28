@@ -150,7 +150,7 @@ Monitoring Actions: Develop bi-monthly SKU-by-SKU dashboards showing MoM growth 
 3. Mode Analytics — SQL Window Functions Tutorial
 4. Youtube videos - helping me to turke the challengee 
 5. SQL Window Functions in Practice — Blog series
-6. Kimball R. — The Data Warehouse Toolkit
+6. Git Bash- git terminal
 7. Gartner — Inventory Optimization Primer
 8. Moving Averages and Reorder Points — Supply Chain texts
 9. Edrawmax- for drawing the ER Diagram
